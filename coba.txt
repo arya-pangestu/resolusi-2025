@@ -4,3 +4,5 @@ saya ingin agar sebelum lebaran saya sudah bisa menghasilkan uang
 perubahan
 
 perubahan ini di lakukan di branch repo2
+
+baris untuk memperlihatkan konflik : di tulis dari branch2
