@@ -5,4 +5,4 @@ perubahan
 
 perubahan ini di lakukan di branch repo2
 
-baris untuk memperlihatkan konflik : di tulis dari main 
+baris untuk memperlihatkan konflik : di buat dari branch1
